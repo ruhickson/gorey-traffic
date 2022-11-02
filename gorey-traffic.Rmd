@@ -2,7 +2,7 @@
 title: "Gorey Traffic Blog"
 author: "Ru Hickson"
 date: "2022-11-01"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
